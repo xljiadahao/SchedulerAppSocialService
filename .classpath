@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/asm.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/freemarker.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/hibernate-tools.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/jta.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/hibernate_lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/Jersey/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/Jersey/asm.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/Jersey/jersey-client-1.18.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/Jersey/jersey-core-1.18.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/Jersey/jersey-json-1.18.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/Jersey/jersey-server-1.18.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/Jersey/jersey-servlet-1.18.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/Jersey/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leixu2/Documents/Personal/V-Key/tarena/JAR/Jersey/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
